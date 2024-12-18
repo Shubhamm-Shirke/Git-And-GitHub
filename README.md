@@ -1,4 +1,7 @@
 # Git-And-GitHub
 Learn git and github
 
-Author : Shubham Shirke
+Author : Shubham Shirke 
+         (Backend devloper)
+
+
